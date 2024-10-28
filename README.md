@@ -14,5 +14,19 @@
 輸入程式後便會詢問是否要連結，再登入帳戶即可
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p4.jpg)
+
+輸入程式:
+![image](
 #實作(gpu版)
+切换运行类型后导入库的同时读取设备id
+![image](https://github.com/ALICE8520/colab/blob/main/p2.jpg).
+神经网络建立
+![image](https://github.com/ALICE8520/colab/blob/main/P3.jpg)
+数据集下载
+![image](https://github.com/ALICE8520/colab/blob/main/p5.jpg)
+加载数据集，设置每十张图片为一批，并随机打乱
+![image](https://github.com/ALICE8520/colab/blob/main/p6.jpg)
+网络实例化
+![image](https://github.com/ALICE8520/colab/blob/main/p7.jpg)
+
 ![image]()
