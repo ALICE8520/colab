@@ -28,5 +28,11 @@
 ![image](https://github.com/ALICE8520/colab/blob/main/p6.jpg)
 网络实例化
 ![image](https://github.com/ALICE8520/colab/blob/main/p7.jpg)
-
-![image]()
+优化器、学习率、轮次设置
+![image](https://github.com/ALICE8520/colab/blob/main/p8.jpg)
+开始训练
+![image](https://github.com/ALICE8520/colab/blob/main/p9.jpg)
+模型测试
+![image](https://github.com/ALICE8520/colab/blob/main/p10.jpg)
+训练结果如图
+![image](https://github.com/ALICE8520/colab/blob/main/p11.jpg)
