@@ -18,38 +18,38 @@
 輸入程式:
 ![image](
 #實作(gpu版)
-切换运行类型后导入库的同时读取设备id
+切換運行類別後倒入庫的同同時讀取設備id
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p2.jpg)
 
-神经网络建立
+神經網路建立
 
 ![image](https://github.com/ALICE8520/colab/blob/main/P3.jpg)
 
-数据集下载
+數據集下載
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p5.jpg)
 
-加载数据集，设置每十张图片为一批，并随机打乱
+加载數據集，設置每十張圖片為一批，並隨機打亂
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p6.jpg)
 
-网络实例化
+網絡實例化
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p7.jpg)
 
-优化器、学习率、轮次设置
+優化器、學習率、輪次設置
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p8.jpg)
 
-开始训练
+開始訓練
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p9.jpg)
 
-模型测试
+模型測試
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p10.jpg)
 
-训练结果如图
+訓練結果
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p11.jpg)
