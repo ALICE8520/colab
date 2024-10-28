@@ -9,8 +9,10 @@
 硬體加速器改成GPU
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p1.jpg)
+
 雲端硬碟掛載:
 輸入程式後便會詢問是否要連結，再登入帳戶即可
+
 ![image](https://github.com/ALICE8520/colab/blob/main/p4.jpg)
 #實作(gpu版)
 ![image]()
