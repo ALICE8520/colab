@@ -15,8 +15,8 @@
 
 ![image](https://github.com/ALICE8520/colab/blob/main/p4.jpg)
 
-輸入程式:
-![image](
+輸入程式後會詢問是否要連結，同意後再登入google帳戶
+![image](https://github.com/ALICE8520/colab/blob/main/p4.jpg)
 #實作(gpu版)
 切換運行類別後倒入庫的同同時讀取設備id
 
